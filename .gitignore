@@ -1,0 +1,11 @@
+*.ex5
+*.ex4
+*.log
+*.tmp
+.DS_Store
+__pycache__/
+.venv/
+.idea/
+.vscode/
+results/raw-ticks/
+results/private-broker-data/
