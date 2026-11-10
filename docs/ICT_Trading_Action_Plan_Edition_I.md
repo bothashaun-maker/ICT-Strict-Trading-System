@@ -4,7 +4,7 @@
 
 > An alert is not an edge. A backtest is not a promise. The evidence decides whether the system advances.
 
-This is the repository-readable companion to the designed 13-page PDF `ICT_Trading_Action_Plan_Edition_I.pdf` created on 10 November 2026. **The original designed PDF has not been uploaded to GitHub.** This text preserves the key plan and milestone definitions.
+This is the repository-readable companion to the designed 13-page PDF `ICT_Trading_Action_Plan_Edition_I.pdf` created on 10 November 2026. **The designed PDF is stored at [ICT_Trading_Action_Plan_Edition_I.pdf](ICT_Trading_Action_Plan_Edition_I.pdf).** This text preserves the key plan and milestone definitions.
 
 ## SECTION 00 — The Master Brief
 
