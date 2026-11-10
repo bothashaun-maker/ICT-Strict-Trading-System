@@ -30,4 +30,4 @@ This repository is the source of record for the uncompiled MT5 research build. C
 
 ## Trading action plan (Edition I)
 
-See [the source-controlled action plan](docs/ICT_Trading_Action_Plan_Edition_I.md). The designed 13-page PDF exists as a conversation artifact but has **not yet been uploaded as a binary PDF** to this repository. All implementation milestones remain subject to MT5 compilation and verification.
+See [the source-controlled action plan](docs/ICT_Trading_Action_Plan_Edition_I.md). The designed 13-page PDF is available at [docs/ICT_Trading_Action_Plan_Edition_I.pdf](docs/ICT_Trading_Action_Plan_Edition_I.pdf). All implementation milestones remain subject to MT5 compilation and verification.
