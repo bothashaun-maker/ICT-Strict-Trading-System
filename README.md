@@ -27,3 +27,7 @@ This source does **not** implement a verified 75%-winning strategy. Simulated wi
 ## Repository status
 
 This repository is the source of record for the uncompiled MT5 research build. Codex and MT5 setup are pending. Do not trade live.
+
+## Trading action plan (Edition I)
+
+See [the source-controlled action plan](docs/ICT_Trading_Action_Plan_Edition_I.md). The designed 13-page PDF exists as a conversation artifact but has **not yet been uploaded as a binary PDF** to this repository. All implementation milestones remain subject to MT5 compilation and verification.
