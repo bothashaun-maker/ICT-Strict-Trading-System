@@ -18,8 +18,8 @@ This project preserves the earlier MQL5 ICT research indicator and develops sour
 
 ## Required workflow
 
-1. **Build and compile indicator:** configure real MT5/MetaEditor installation; fix source errors without silently changing rules; verify London, NY and broker-time conversions on M1/M5; remove historical lookahead.
-2. **Quantify strategy:** separately design an MQL5 Expert Advisor for mechanical simulation; obtain five years of appropriately granular broker data per instrument; include spread, slippage and commissions, realistic fills and chronological out-of-sample tests.
+1. **Build and compile indicator:** configure a real MT5/MetaEditor installation. Fix source errors without silently changing rules. Verify London, NY and broker-time conversions on M1/M5, and remove historical lookahead.
+2. **Quantify strategy:** separately design an MQL5 Expert Advisor for mechanical simulation. Obtain five years of appropriately granular broker data per instrument. Include spread, slippage and commissions, realistic fills and chronological out-of-sample tests.
 3. **Demo:** after testing, at least three months of documented paper execution. Extend if the trade count is insufficient or results are unstable.
 
 This source does **not** implement a verified 75%-winning strategy. Simulated wins, especially from small samples or cherry-picked periods, are not evidence of a dependable edge.
